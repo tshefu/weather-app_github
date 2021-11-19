@@ -1,0 +1,56 @@
+.card {
+  margin: 10px auto;
+  float: none;
+}
+h1 {
+  text-align: center;
+  font-size: 48px;
+  margin-top: 15px;
+  font-weight: lighter;
+  color: #476269;
+}
+.card-title {
+  text-align: center;
+}
+.card-text {
+  text-align: center;
+}
+.city {
+  font-weight: bold;
+}
+.search-bar {
+  width: 400px;
+}
+.temperatureUnit {
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
+.icon {
+  color: #40a798;
+  text-align: center;
+  font-size: 45px;
+  margin-top: 10px;
+}
+.btn {
+  color: #476269;
+  border-color: #476269;
+}
+.btn:hover {
+  background-color: #40a798;
+  border-color: #40a798;
+}
+.temperature-today {
+  position: relative;
+  left: 50px;
+}
+.fa-sun {
+  position: relative;
+  left: 50%;
+  font-size: 90px;
+  right: 50%;
+}
+#weekday-time {
+  text-align: center;
+  font-weight: bold;
+}
